@@ -4,7 +4,7 @@
 
 >  Ne zaman bitecek bilinmiyor - Taşıması çok kolay
 
-> Önemli linkler: [Duyuru](https://t.me/RuesAnnouncement) - [Sohbet](https://t.me/RuesChat) -  [WP Kanalı](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34) - [Discord](https://discord.gg/huEG2JNj)
+> Önemli linkler: [Duyuru](https://t.me/RuesAnnouncement) - [Sohbet](https://t.me/RuesChat) -  [WP Kanalı](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34) - [Discord](https://discord.gg/TSMpzxZnre)
 
 > Sağ üstten `fork` & `yıldız` yapmayı unutmayın!
 
