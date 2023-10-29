@@ -16,6 +16,7 @@
 > Sunucuda halihazırda 8080 portunu kullanan node varsa, /root/pactus/ yolunda bulunan config.toml dosyasındaki grpc gateway kısmında yazan 8080 portunu 5050, 6060 gibi kullanılmayan bir port ile değiştirebilirsiniz.
 >
 > cd /root/pactus/
+> 
 > nano config.toml
 
 > [Hetzner](https://github.com/ruesandora/Hetzner) kullanıyorum.
